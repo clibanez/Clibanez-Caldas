@@ -26,7 +26,8 @@
  
  
  
-[![](https://img.shields.io/badge/Clibanez-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://dashboard.heroku.com/apps/clibanez-helpdesk/)
+[![](https://img.shields.io/badge/Vercel-CuscuzDiário-green?style=for-the-badge&logo=vercel&logoColor=white)](https://cuscuz-diario-angular.vercel.app/login/)
+[![](https://img.shields.io/badge/Vercel-HelpDesk-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://help-desk-angular.vercel.app/login/)
  
  
  
